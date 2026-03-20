@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="422" viewBox="0 0 820 422">
+  <rect width="820" height="422" rx="10" fill="#0d1117"/>
+  <rect width="820" height="32" rx="10" fill="#161b22"/>
+  <rect y="22" width="820" height="10" fill="#161b22"/>
+  <circle cx="20" cy="16" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="16" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="16" r="6" fill="#27c93f"/>
+  <text x="410" y="20" fill="#8b949e" font-family="'Courier New', monospace" font-size="12" text-anchor="middle">skills.conf — vim</text>
+    <text x="24" y="54" fill="#00ff41" font-family="'Courier New', monospace" font-size="14">$ cat /etc/skills.conf</text>
+    <text x="24" y="76" fill="#00ff41" font-family="'Courier New', monospace" font-size="14"></text>
+    <text x="24" y="98" fill="#4a9e4a" font-family="'Courier New', monospace" font-size="14"># --- HomeLab ---</text>
+    <text x="24" y="120" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="14">  Proxmox VE │ Docker │ Immich │ Pi-hole │ pfSense │ VLANs</text>
+    <text x="24" y="142" fill="#00ff41" font-family="'Courier New', monospace" font-size="14"></text>
+    <text x="24" y="164" fill="#4a9e4a" font-family="'Courier New', monospace" font-size="14"># --- Containers ---</text>
+    <text x="24" y="186" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="14">  Docker Compose │ Portainer │ Log forwarding → SIEM</text>
+    <text x="24" y="208" fill="#00ff41" font-family="'Courier New', monospace" font-size="14"></text>
+    <text x="24" y="230" fill="#4a9e4a" font-family="'Courier New', monospace" font-size="14"># --- Systems ---</text>
+    <text x="24" y="252" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="14">  Linux (Ubuntu/Debian) │ Windows │ Bash │ Python</text>
+    <text x="24" y="274" fill="#00ff41" font-family="'Courier New', monospace" font-size="14"></text>
+    <text x="24" y="296" fill="#4a9e4a" font-family="'Courier New', monospace" font-size="14"># --- SOC Toolkit ---</text>
+    <text x="24" y="318" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="14">  SIEM basics │ MITRE ATT&amp;CK │ Alert triage │ Playbooks</text>
+    <text x="24" y="340" fill="#00ff41" font-family="'Courier New', monospace" font-size="14"></text>
+    <text x="24" y="362" fill="#4a9e4a" font-family="'Courier New', monospace" font-size="14"># --- Dev/Ops ---</text>
+    <text x="24" y="384" fill="#c9d1d9" font-family="'Courier New', monospace" font-size="14">  Git │ GitHub Actions │ IaC │ Network monitoring</text>
+</svg>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 820 554" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path d="M820,10L820,544C820,549.519 815.519,554 810,554L10,554C4.481,554 0,549.519 0,544L0,10C0,4.481 4.481,0 10,0L810,0C815.519,0 820,4.481 820,10Z" style="fill:rgb(13,17,23);"/>
+    <path d="M820,10L820,22C820,27.519 815.519,32 810,32L10,32C4.481,32 0,27.519 0,22L0,10C0,4.481 4.481,0 10,0L810,0C815.519,0 820,4.481 820,10Z" style="fill:rgb(22,27,34);"/>
+    <rect x="0" y="22" width="820" height="10" style="fill:rgb(22,27,34);"/>
+    <circle cx="20" cy="16" r="6" style="fill:rgb(255,95,86);"/>
+    <circle cx="40" cy="16" r="6" style="fill:rgb(255,189,46);"/>
+    <circle cx="60" cy="16" r="6" style="fill:rgb(39,201,63);"/>
+    <g transform="matrix(1,0,0,1,410,20)">
+        <text x="-75.858px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:12px;fill:rgb(139,148,158);">jedlikowski.dev@soc:~</text>
+    </g>
+    <g transform="matrix(1,0,0,1,24,54)">
+        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(74,158,74);"># ==========================================</text>
+    </g>
+    <g transform="matrix(1,0,0,1,24,76)">
+        <g transform="matrix(14,0,0,14,269.71875,0)">
+        </g>
+        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(74,158,74);">#  System Boot Sequence v2.1.3.7</text>
+    </g>
+    <g transform="matrix(1,0,0,1,24,98)">
+        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(74,158,74);"># ==========================================</text>
+    </g>
+    <g transform="matrix(1,0,0,1,24,142)">
+        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(0,255,65);">$ whoami</text>
+    </g>
+    <g transform="matrix(0.977835,0,0,0.977835,26.739019,163.901452)">
+        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(201,209,217);">Bug whisperer</text>
+        <text x="109.573px" y="0px" style="font-family:'AppleColorEmoji', 'Apple Color Emoji';font-size:14px;fill:rgb(201,209,217);">🪲</text>
+    </g>
+    <g transform="matrix(1,0,0,1,24,208)">
+        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(0,255,65);">$ cat /etc/role</text>
+    </g>
+    <g transform="matrix(1.006421,0,0,1.006421,19.042449,229.934905)">
+        <text x="8.429px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(121,192,255);">Przez lata pomagałem znajomym i klientom z problemami sprzętowymi i softwarowymi,</text>
+        <g transform="matrix(14,0,0,14,573.152344,14)">
+        </g>
+        <g transform="matrix(14,0,0,14,577.366699,14)">
+        </g>
+        <text x="8.429px" y="14px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(121,192,255);">ogarniając Windows, Linux, MacOS, elektronikę, sieci domowe i małe ﬁrmowe.</text>
+        <g transform="matrix(14,0,0,14,657.439453,28)">
+        </g>
+        <g transform="matrix(14,0,0,14,661.653809,28)">
+        </g>
+        <g transform="matrix(14,0,0,14,775.441406,28)">
+        </g>
+        <text x="8.429px" y="28px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(121,192,255);">To nie było formalne stanowisko — po prostu naturalna umiejętność, którą rozwĳam od zawsze.</text>
+    </g>
+    <g transform="matrix(1,0,0,1,24,296)">
+        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(0,255,65);">$ uptime</text>
+    </g>
+    <g transform="matrix(1,0,0,1,24,318)">
+        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(201,209,217);">5+ years - Planowanie i koordynacja inspekcji technicznych</text>
+        <g transform="matrix(14,0,0,14,345.577148,14)">
+        </g>
+        <g transform="matrix(14,0,0,14,349.791504,14)">
+        </g>
+        <text x="0px" y="14px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(201,209,217);">20 years in IT -  Naprawiam, składam, konﬁguruję...</text>
+    </g>
+    <g transform="matrix(1,0,0,1,24,362)">
+        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(0,255,65);">$ cat /var/log/status.log</text>
+    </g>
+    <g transform="matrix(1,0,0,1,24,384)">
+        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(227,179,65);">[ACTIVE]  TryHackMe SOC Level 1 Path</text>
+    </g>
+    <g transform="matrix(1,0,0,1,24,406)">
+        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(227,179,65);">[ACTIVE]  CompTIA Security+ prep</text>
+    </g>
+    <g transform="matrix(1,0,0,1,24,428)">
+        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(0,255,65);">[OK]      HomeLabs running (Proxmox + Docker + Firewalls)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,24,450)">
+        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(0,255,65);">[OK]      Ready for Blue Team ops</text>
+    </g>
+    <g transform="matrix(1,0,0,1,24,494)">
+        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(74,158,74);">&gt; Initializing threat detection modules...</text>
+    </g>
+    <g transform="matrix(1,0,0,1,24,516)">
+        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:14px;fill:rgb(0,255,65);">[████████████████████████████████] 100% READY</text>
+    </g>
+</svg>
