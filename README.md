@@ -2,9 +2,9 @@
 
 <!-- ═══════════════ NAVIGATION ═══════════════ -->
 
-<a href="https://jedlikowski.dev"><img src="terminal-nav.svg" alt="Navigation" width="820"/></a>
+<!-- <a href="https://jedlikowski.dev"><img src="terminal-nav.svg" alt="Navigation" width="820"/></a>
 
-<br/>
+<br/> -->
 
 <!-- Click individual links below if the SVG isn't clickable -->
 
